@@ -1,0 +1,10 @@
+Data Diary
+I downloaded NYC 311 data and filtered the dataset to include only complaints labeled “Rat Sighting.” 
+I limited the timeframe to January 2022 through December 2025, corresponding to Mayor Eric Adams’ term. 
+Using Excel, I extracted the year from the created date and grouped complaints by ZIP code and year using a pivot table. 
+To measure change over time, I calculated the percent change in rat sightings by comparing totals from 2022 to totals from 2025. 
+I then exported the cleaned table as a CSV and used it to create a choropleth map in Datawrapper.
+
+
+
+
